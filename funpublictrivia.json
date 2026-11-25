@@ -1,0 +1,524 @@
+[
+  {
+    "question": "How many hearts does an octopus have?",
+    "correct_answer": "3",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "8"
+    ]
+  },
+  {
+    "question": "What is a group of crows called?",
+    "correct_answer": "A murder",
+    "incorrect_answers": [
+      "A parliament",
+      "A pride",
+      "A swarm"
+    ]
+  },
+  {
+    "question": "Which animal has fingerprints so similar to humans that they could confuse a crime scene?",
+    "correct_answer": "Koala",
+    "incorrect_answers": [
+      "Kangaroo",
+      "Panda",
+      "Sloth"
+    ]
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "correct_answer": "Cheetah",
+    "incorrect_answers": [
+      "Lion",
+      "Horse",
+      "Leopard"
+    ]
+  },
+  {
+    "question": "What colour is a polar bear's skin?",
+    "correct_answer": "Black",
+    "incorrect_answers": [
+      "White",
+      "Pink",
+      "Grey"
+    ]
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "correct_answer": "Ostrich",
+    "incorrect_answers": [
+      "Emu",
+      "Penguin",
+      "Albatross"
+    ]
+  },
+  {
+    "question": "What is a baby kangaroo called?",
+    "correct_answer": "Joey",
+    "incorrect_answers": [
+      "Cub",
+      "Pup",
+      "Kit"
+    ]
+  },
+  {
+    "question": "Which animal is famous for pooping cube-shaped droppings?",
+    "correct_answer": "Wombat",
+    "incorrect_answers": [
+      "Koala",
+      "Capybara",
+      "Armadillo"
+    ]
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "6",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "question": "The name of which animal means river horse in Greek?",
+    "correct_answer": "Hippopotamus",
+    "incorrect_answers": [
+      "Rhinoceros",
+      "Zebra",
+      "Crocodile"
+    ]
+  },
+  {
+    "question": "Which is the only mammal that can truly fly?",
+    "correct_answer": "Bat",
+    "incorrect_answers": [
+      "Flying squirrel",
+      "Sugar glider",
+      "Colugo"
+    ]
+  },
+  {
+    "question": "What is a baby goat called?",
+    "correct_answer": "Kid",
+    "incorrect_answers": [
+      "Lamb",
+      "Calf",
+      "Foal"
+    ]
+  },
+  {
+    "question": "What is the tallest animal in the world?",
+    "correct_answer": "Giraffe",
+    "incorrect_answers": [
+      "Elephant",
+      "Ostrich",
+      "Camel"
+    ]
+  },
+  {
+    "question": "What is the national animal of Malaysia?",
+    "correct_answer": "Malayan tiger",
+    "incorrect_answers": [
+      "Orangutan",
+      "Asian elephant",
+      "Rhinoceros hornbill"
+    ]
+  },
+  {
+    "question": "Which fruit is the main ingredient of guacamole?",
+    "correct_answer": "Avocado",
+    "incorrect_answers": [
+      "Lime",
+      "Tomato",
+      "Mango"
+    ]
+  },
+  {
+    "question": "Which country did pizza originally come from?",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "France",
+      "Greece",
+      "United States"
+    ]
+  },
+  {
+    "question": "Which country does sushi come from?",
+    "correct_answer": "Japan",
+    "incorrect_answers": [
+      "China",
+      "South Korea",
+      "Thailand"
+    ]
+  },
+  {
+    "question": "Which nut is used to make marzipan?",
+    "correct_answer": "Almond",
+    "incorrect_answers": [
+      "Cashew",
+      "Peanut",
+      "Walnut"
+    ]
+  },
+  {
+    "question": "Which fruit is known as the king of fruits in Southeast Asia?",
+    "correct_answer": "Durian",
+    "incorrect_answers": [
+      "Mango",
+      "Mangosteen",
+      "Rambutan"
+    ]
+  },
+  {
+    "question": "Which spice is the most expensive in the world by weight?",
+    "correct_answer": "Saffron",
+    "incorrect_answers": [
+      "Cinnamon",
+      "Cardamom",
+      "Turmeric"
+    ]
+  },
+  {
+    "question": "What is the main ingredient in hummus?",
+    "correct_answer": "Chickpeas",
+    "incorrect_answers": [
+      "Lentils",
+      "Black beans",
+      "Peas"
+    ]
+  },
+  {
+    "question": "Which cheese is traditionally found in a Greek salad?",
+    "correct_answer": "Feta",
+    "incorrect_answers": [
+      "Cheddar",
+      "Mozzarella",
+      "Parmesan"
+    ]
+  },
+  {
+    "question": "Which food is famous for never going bad if stored properly?",
+    "correct_answer": "Honey",
+    "incorrect_answers": [
+      "Butter",
+      "Bread",
+      "Eggs"
+    ]
+  },
+  {
+    "question": "What is often considered Malaysia's national dish?",
+    "correct_answer": "Nasi lemak",
+    "incorrect_answers": [
+      "Roti canai",
+      "Laksa",
+      "Satay"
+    ]
+  },
+  {
+    "question": "In Minecraft, which green mob sneaks up and explodes near players?",
+    "correct_answer": "Creeper",
+    "incorrect_answers": [
+      "Zombie",
+      "Skeleton",
+      "Enderman"
+    ]
+  },
+  {
+    "question": "What colour is Pac-Man?",
+    "correct_answer": "Yellow",
+    "incorrect_answers": [
+      "Red",
+      "Blue",
+      "Orange"
+    ]
+  },
+  {
+    "question": "What does Pikachu evolve into?",
+    "correct_answer": "Raichu",
+    "incorrect_answers": [
+      "Pichu",
+      "Meowth",
+      "Jolteon"
+    ]
+  },
+  {
+    "question": "Which chess piece moves in an L-shape?",
+    "correct_answer": "Knight",
+    "incorrect_answers": [
+      "Bishop",
+      "Rook",
+      "Queen"
+    ]
+  },
+  {
+    "question": "What is the name of Mario's brother?",
+    "correct_answer": "Luigi",
+    "incorrect_answers": [
+      "Wario",
+      "Toad",
+      "Yoshi"
+    ]
+  },
+  {
+    "question": "How many squares are there on a chessboard?",
+    "correct_answer": "64",
+    "incorrect_answers": [
+      "32",
+      "81",
+      "100"
+    ]
+  },
+  {
+    "question": "What is the name of the wizarding school in Harry Potter?",
+    "correct_answer": "Hogwarts",
+    "incorrect_answers": [
+      "Beauxbatons",
+      "Durmstrang",
+      "Ilvermorny"
+    ]
+  },
+  {
+    "question": "What type of fish is Nemo in Finding Nemo?",
+    "correct_answer": "Clownfish",
+    "incorrect_answers": [
+      "Blue tang",
+      "Pufferfish",
+      "Seahorse"
+    ]
+  },
+  {
+    "question": "What is Peter Parker's superhero alter ego?",
+    "correct_answer": "Spider-Man",
+    "incorrect_answers": [
+      "Batman",
+      "Superman",
+      "The Flash"
+    ]
+  },
+  {
+    "question": "What is the name of Batman's loyal butler?",
+    "correct_answer": "Alfred",
+    "incorrect_answers": [
+      "Jarvis",
+      "Lurch",
+      "Geoffrey"
+    ]
+  },
+  {
+    "question": "Which band was nicknamed the Fab Four?",
+    "correct_answer": "The Beatles",
+    "incorrect_answers": [
+      "Queen",
+      "ABBA",
+      "The Rolling Stones"
+    ]
+  },
+  {
+    "question": "Which city is nicknamed the Big Apple?",
+    "correct_answer": "New York City",
+    "incorrect_answers": [
+      "Los Angeles",
+      "Chicago",
+      "Boston"
+    ]
+  },
+  {
+    "question": "Which social media app has a ghost as its logo?",
+    "correct_answer": "Snapchat",
+    "incorrect_answers": [
+      "Instagram",
+      "TikTok",
+      "WhatsApp"
+    ]
+  },
+  {
+    "question": "In which sport do players try for a hole-in-one?",
+    "correct_answer": "Golf",
+    "incorrect_answers": [
+      "Bowling",
+      "Darts",
+      "Snooker"
+    ]
+  },
+  {
+    "question": "Which sport is Lionel Messi famous for?",
+    "correct_answer": "Football",
+    "incorrect_answers": [
+      "Basketball",
+      "Tennis",
+      "Rugby"
+    ]
+  },
+  {
+    "question": "How many strings does a standard guitar have?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "4",
+      "5",
+      "8"
+    ]
+  },
+  {
+    "question": "Which instrument has 88 keys?",
+    "correct_answer": "Piano",
+    "incorrect_answers": [
+      "Organ",
+      "Accordion",
+      "Harp"
+    ]
+  },
+  {
+    "question": "Which colour do you get by mixing blue and yellow?",
+    "correct_answer": "Green",
+    "incorrect_answers": [
+      "Purple",
+      "Orange",
+      "Brown"
+    ]
+  },
+  {
+    "question": "How many rings are there in the Olympic logo?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "4",
+      "6",
+      "7"
+    ]
+  },
+  {
+    "question": "Which planet is famous for its bright rings?",
+    "correct_answer": "Saturn",
+    "incorrect_answers": [
+      "Mars",
+      "Venus",
+      "Mercury"
+    ]
+  },
+  {
+    "question": "Which planet spins on its side?",
+    "correct_answer": "Uranus",
+    "incorrect_answers": [
+      "Neptune",
+      "Saturn",
+      "Mars"
+    ]
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "correct_answer": "Mercury",
+    "incorrect_answers": [
+      "Venus",
+      "Mars",
+      "Earth"
+    ]
+  },
+  {
+    "question": "Which country is shaped like a boot?",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "Greece",
+      "Spain",
+      "Portugal"
+    ]
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the United States?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "England",
+      "Spain",
+      "Italy"
+    ]
+  },
+  {
+    "question": "In which country can you find the temple complex Angkor Wat?",
+    "correct_answer": "Cambodia",
+    "incorrect_answers": [
+      "Thailand",
+      "Vietnam",
+      "Laos"
+    ]
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "correct_answer": "Vatican City",
+    "incorrect_answers": [
+      "Monaco",
+      "San Marino",
+      "Malta"
+    ]
+  },
+  {
+    "question": "Which ocean contains the Bermuda Triangle?",
+    "correct_answer": "Atlantic Ocean",
+    "incorrect_answers": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ]
+  },
+  {
+    "question": "Which language is spoken in Brazil?",
+    "correct_answer": "Portuguese",
+    "incorrect_answers": [
+      "Spanish",
+      "Italian",
+      "French"
+    ]
+  },
+  {
+    "question": "Which company's logo is a bitten apple?",
+    "correct_answer": "Apple",
+    "incorrect_answers": [
+      "Microsoft",
+      "Google",
+      "Amazon"
+    ]
+  },
+  {
+    "question": "What does a 404 error mean on a website?",
+    "correct_answer": "Page not found",
+    "incorrect_answers": [
+      "Server crashed",
+      "Access denied",
+      "Slow connection"
+    ]
+  },
+  {
+    "question": "Which animal is the mascot of Linux?",
+    "correct_answer": "Penguin",
+    "incorrect_answers": [
+      "Dolphin",
+      "Fox",
+      "Cat"
+    ]
+  },
+  {
+    "question": "What colour is the Android mascot?",
+    "correct_answer": "Green",
+    "incorrect_answers": [
+      "Blue",
+      "Orange",
+      "Purple"
+    ]
+  },
+  {
+    "question": "What does GPS stand for?",
+    "correct_answer": "Global Positioning System",
+    "incorrect_answers": [
+      "General Positioning Service",
+      "Global Pathfinder System",
+      "Geographic Position Signal"
+    ]
+  },
+  {
+    "question": "Which number system uses only the digits 0 and 1?",
+    "correct_answer": "Binary",
+    "incorrect_answers": [
+      "Decimal",
+      "Octal",
+      "Hexadecimal"
+    ]
+  }
+]
