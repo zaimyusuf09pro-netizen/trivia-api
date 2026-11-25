@@ -1,0 +1,452 @@
+[
+  {
+    "question": "What is the capital of Malaysia?",
+    "correct_answer": "Kuala Lumpur",
+    "incorrect_answers": [
+      "Johor Bahru",
+      "Ipoh",
+      "Melaka"
+    ]
+  },
+  {
+    "question": "Which company develops the Android operating system?",
+    "correct_answer": "Google",
+    "incorrect_answers": [
+      "Apple",
+      "Microsoft",
+      "Samsung"
+    ]
+  },
+  {
+    "question": "Which kernel is Android built on?",
+    "correct_answer": "Linux",
+    "incorrect_answers": [
+      "Windows NT",
+      "BSD",
+      "UNIX"
+    ]
+  },
+  {
+    "question": "What does APK stand for?",
+    "correct_answer": "Android Package Kit",
+    "incorrect_answers": [
+      "Android Phone Kit",
+      "Application Purge Kit",
+      "Android Page Kit"
+    ]
+  },
+  {
+    "question": "Which file declares every activity in an Android app?",
+    "correct_answer": "AndroidManifest.xml",
+    "incorrect_answers": [
+      "build.gradle",
+      "strings.xml",
+      "activity_main.xml"
+    ]
+  },
+  {
+    "question": "Which Android version was named Nougat?",
+    "correct_answer": "Android 7",
+    "incorrect_answers": [
+      "Android 5",
+      "Android 6",
+      "Android 8"
+    ]
+  },
+  {
+    "question": "Which method runs first when an activity is created?",
+    "correct_answer": "onCreate()",
+    "incorrect_answers": [
+      "onStart()",
+      "onResume()",
+      "onClick()"
+    ]
+  },
+  {
+    "question": "Which permission does an app need to reach the internet?",
+    "correct_answer": "android.permission.INTERNET",
+    "incorrect_answers": [
+      "android.permission.CAMERA",
+      "android.permission.NETWORK",
+      "android.permission.WEB"
+    ]
+  },
+  {
+    "question": "Which highest mountain is found in Malaysia?",
+    "correct_answer": "Mount Kinabalu",
+    "incorrect_answers": [
+      "Mount Tahan",
+      "Mount Mulu",
+      "Mount Ledang"
+    ]
+  },
+  {
+    "question": "Which bracket starts a JSON array?",
+    "correct_answer": "[",
+    "incorrect_answers": [
+      "{",
+      "(",
+      "<"
+    ]
+  },
+  {
+    "question": "Which IDE is the official development environment for Android apps?",
+    "correct_answer": "Android Studio",
+    "incorrect_answers": [
+      "Eclipse",
+      "NetBeans",
+      "Xcode"
+    ]
+  },
+  {
+    "question": "Which Android component represents a single screen with a user interface?",
+    "correct_answer": "Activity",
+    "incorrect_answers": [
+      "Service",
+      "BroadcastReceiver",
+      "ContentProvider"
+    ]
+  },
+  {
+    "question": "Which lifecycle method is called when an activity is no longer visible?",
+    "correct_answer": "onStop()",
+    "incorrect_answers": [
+      "onStart()",
+      "onCreate()",
+      "onResume()"
+    ]
+  },
+  {
+    "question": "Which Log method is used to print an error message?",
+    "correct_answer": "Log.e()",
+    "incorrect_answers": [
+      "Log.d()",
+      "Log.i()",
+      "Log.v()"
+    ]
+  },
+  {
+    "question": "Which object is used to start another activity?",
+    "correct_answer": "Intent",
+    "incorrect_answers": [
+      "Toast",
+      "Handler",
+      "Adapter"
+    ]
+  },
+  {
+    "question": "In R.id.button, what does the R class give you access to?",
+    "correct_answer": "App resources",
+    "incorrect_answers": [
+      "Network requests",
+      "Database tables",
+      "Lifecycle callbacks"
+    ]
+  },
+  {
+    "question": "Which file usually lists the app's library dependencies?",
+    "correct_answer": "app/build.gradle",
+    "incorrect_answers": [
+      "AndroidManifest.xml",
+      "strings.xml",
+      "activity_main.xml"
+    ]
+  },
+  {
+    "question": "In which resource folder are drawable images stored?",
+    "correct_answer": "res/drawable",
+    "incorrect_answers": [
+      "res/values",
+      "res/layout",
+      "res/xml"
+    ]
+  },
+  {
+    "question": "Which file is best for storing reusable text strings?",
+    "correct_answer": "strings.xml",
+    "incorrect_answers": [
+      "colors.xml",
+      "styles.xml",
+      "AndroidManifest.xml"
+    ]
+  },
+  {
+    "question": "Which view is used to display a picture on screen?",
+    "correct_answer": "ImageView",
+    "incorrect_answers": [
+      "TextView",
+      "EditText",
+      "ProgressBar"
+    ]
+  },
+  {
+    "question": "Which Volley class is used to request a JSON array?",
+    "correct_answer": "JsonArrayRequest",
+    "incorrect_answers": [
+      "StringRequest",
+      "JsonObjectRequest",
+      "ImageRequest"
+    ]
+  },
+  {
+    "question": "Which Volley class holds the requests that are waiting to run?",
+    "correct_answer": "RequestQueue",
+    "incorrect_answers": [
+      "VolleyError",
+      "Response",
+      "NetworkImageView"
+    ]
+  },
+  {
+    "question": "Which HTTP method is normally used to read data from an API?",
+    "correct_answer": "GET",
+    "incorrect_answers": [
+      "POST",
+      "PUT",
+      "DELETE"
+    ]
+  },
+  {
+    "question": "In JSON, which symbols surround an object?",
+    "correct_answer": "Curly braces { }",
+    "incorrect_answers": [
+      "Square brackets [ ]",
+      "Parentheses ( )",
+      "Angle brackets < >"
+    ]
+  },
+  {
+    "question": "What does API stand for?",
+    "correct_answer": "Application Programming Interface",
+    "incorrect_answers": [
+      "Applied Program Integration",
+      "Automatic Page Index",
+      "Advanced Phone Interface"
+    ]
+  },
+  {
+    "question": "Which layout_width value makes a view only as wide as its content?",
+    "correct_answer": "wrap_content",
+    "incorrect_answers": [
+      "match_parent",
+      "fill_content",
+      "auto_size"
+    ]
+  },
+  {
+    "question": "Which buildFeatures option turns on Data Binding?",
+    "correct_answer": "dataBinding",
+    "incorrect_answers": [
+      "viewBinding",
+      "autoBinding",
+      "layoutBinding"
+    ]
+  },
+  {
+    "question": "Which root tag must wrap a layout file that uses Data Binding?",
+    "correct_answer": "<layout>",
+    "incorrect_answers": [
+      "<binding>",
+      "<root>",
+      "<databinding>"
+    ]
+  },
+  {
+    "question": "Which lifecycle method runs when a stopped activity comes back to the screen?",
+    "correct_answer": "onRestart()",
+    "incorrect_answers": [
+      "onCreate()",
+      "onDestroy()",
+      "onPause()"
+    ]
+  },
+  {
+    "question": "Which method is used to save an activity's state before it is recreated?",
+    "correct_answer": "onSaveInstanceState()",
+    "incorrect_answers": [
+      "onRestart()",
+      "onDestroy()",
+      "onCreateOptionsMenu()"
+    ]
+  },
+  {
+    "question": "What does dp stand for in Android?",
+    "correct_answer": "Density-independent pixels",
+    "incorrect_answers": [
+      "Dots per page",
+      "Display points",
+      "Data pixels"
+    ]
+  },
+  {
+    "question": "Which unit is recommended for text sizes so they follow the user's font setting?",
+    "correct_answer": "sp",
+    "incorrect_answers": [
+      "px",
+      "dp",
+      "pt"
+    ]
+  },
+  {
+    "question": "Which city is the administrative capital of Malaysia?",
+    "correct_answer": "Putrajaya",
+    "incorrect_answers": [
+      "Shah Alam",
+      "Cyberjaya",
+      "Seremban"
+    ]
+  },
+  {
+    "question": "What is the currency of Malaysia?",
+    "correct_answer": "Ringgit",
+    "incorrect_answers": [
+      "Rupiah",
+      "Baht",
+      "Peso"
+    ]
+  },
+  {
+    "question": "In which year did Malaya gain independence?",
+    "correct_answer": "1957",
+    "incorrect_answers": [
+      "1963",
+      "1948",
+      "1969"
+    ]
+  },
+  {
+    "question": "Malaysia Day marks the formation of Malaysia in which year?",
+    "correct_answer": "1963",
+    "incorrect_answers": [
+      "1957",
+      "1965",
+      "1971"
+    ]
+  },
+  {
+    "question": "How many states does Malaysia have?",
+    "correct_answer": "13",
+    "incorrect_answers": [
+      "11",
+      "12",
+      "14"
+    ]
+  },
+  {
+    "question": "Which famous twin towers stand in Kuala Lumpur?",
+    "correct_answer": "Petronas Twin Towers",
+    "incorrect_answers": [
+      "Menara Kuala Lumpur",
+      "Merdeka 118",
+      "Exchange 106"
+    ]
+  },
+  {
+    "question": "Which strait separates Peninsular Malaysia from Sumatra?",
+    "correct_answer": "Strait of Malacca",
+    "incorrect_answers": [
+      "Strait of Johor",
+      "Sunda Strait",
+      "Strait of Hormuz"
+    ]
+  },
+  {
+    "question": "Which is the longest river in Malaysia?",
+    "correct_answer": "Rajang River",
+    "incorrect_answers": [
+      "Kinabatangan River",
+      "Perak River",
+      "Muar River"
+    ]
+  },
+  {
+    "question": "What is the national language of Malaysia?",
+    "correct_answer": "Bahasa Malaysia",
+    "incorrect_answers": [
+      "English",
+      "Mandarin",
+      "Tamil"
+    ]
+  },
+  {
+    "question": "What does CPU stand for?",
+    "correct_answer": "Central Processing Unit",
+    "incorrect_answers": [
+      "Central Program Utility",
+      "Computer Personal Unit",
+      "Core Processing Update"
+    ]
+  },
+  {
+    "question": "What does HTML stand for?",
+    "correct_answer": "HyperText Markup Language",
+    "incorrect_answers": [
+      "HighText Machine Language",
+      "Hyperlink Text Modeling Language",
+      "Home Tool Markup Language"
+    ]
+  },
+  {
+    "question": "Which number system uses only the digits 0 and 1?",
+    "correct_answer": "Binary",
+    "incorrect_answers": [
+      "Decimal",
+      "Octal",
+      "Hexadecimal"
+    ]
+  },
+  {
+    "question": "Which company originally created the Java programming language?",
+    "correct_answer": "Sun Microsystems",
+    "incorrect_answers": [
+      "Microsoft",
+      "IBM",
+      "Apple"
+    ]
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "correct_answer": "HyperText Transfer Protocol",
+    "incorrect_answers": [
+      "HyperText Transmission Process",
+      "High Transfer Text Protocol",
+      "Host Text Transfer Protocol"
+    ]
+  },
+  {
+    "question": "Which language is used to query relational databases?",
+    "correct_answer": "SQL",
+    "incorrect_answers": [
+      "CSS",
+      "XML",
+      "JSON"
+    ]
+  },
+  {
+    "question": "How many bits are in one byte?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "4",
+      "10",
+      "16"
+    ]
+  },
+  {
+    "question": "Which protocol encrypts web traffic between a browser and a website?",
+    "correct_answer": "HTTPS",
+    "incorrect_answers": [
+      "FTP",
+      "SMTP",
+      "HTTP"
+    ]
+  },
+  {
+    "question": "Which data structure works on a first-in, first-out basis?",
+    "correct_answer": "Queue",
+    "incorrect_answers": [
+      "Stack",
+      "Tree",
+      "Array"
+    ]
+  }
+]
